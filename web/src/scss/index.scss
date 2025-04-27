@@ -1,0 +1,13 @@
+@import 'bootstrap/scss/bootstrap';
+@import './custom';
+
+body {
+  padding-top: 60px;
+  background-color: #fafafa;
+}
+
+.container-center {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
